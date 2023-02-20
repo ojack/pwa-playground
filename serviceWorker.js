@@ -4,7 +4,7 @@ const assets = [
   "/index.html",
   "/css/style.css",
   "/js/app.js",
-  "https://unpkg.com/hydra-synth"
+  "/js/hydra-synth"
   // "/images/coffee1.jpg",
   // "/images/coffee2.jpg",
   // "/images/coffee3.jpg",
