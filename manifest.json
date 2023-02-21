@@ -2,9 +2,9 @@
   "name": "hydraaaaa",
   "short_name": "hydraaaaaa",
   "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#ff6633",
-  "theme_color": "#ff6633",
+  "display": "fullscreen",
+  "background_color": "#ff0033",
+  "theme_color": "#ff0066",
   "orientation": "portrait-primary",
   "icons": [
     {
